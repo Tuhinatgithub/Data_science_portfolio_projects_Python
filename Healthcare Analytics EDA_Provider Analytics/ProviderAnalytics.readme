@@ -1,0 +1,62 @@
+I have done Exploratory Data Analysis of Hospital Performance. The key KPIs that are calculated are as below:
+
+1.Volume 
+2.Revenue Leakage
+3.Utilisation
+4.Quality
+5.Finance
+
+I have tried to solve the below questions. Answers are provided as well :
+
+1. Volume: How much volume can a department handle?
+The volume of a department is the number of patients handled by each doctor in that department
+
+Top 3 Departments:
+Orthopaedics        99.750000
+General Medicine    78.400000
+Paediatrics         74.333333
+
+Department with least volumn:
+Neurology           42.000000
+
+
+2. Revenue leakage: How much revenue is each department losing because of doctors cancelling their appointments?
+
+Top 3 Departments:
+Neurology           7.142857
+Cardiology          5.714286
+Skin                5.511811
+
+Department with least revenue loss:
+Psychiatry          2.803738
+
+3. Utilisation: How well is each department utilising its doctors?
+It is measured by No of appointments completed / Total no of doctors
+
+Top 3 Departments:
+Orthopaedics        92.75
+General Medicine    71.60
+Paediatrics         68.00
+
+Department with least Doctor utilisation:
+Neurology           35.75
+
+4. Quality: Which departments are patients most satisfied with?
+
+Top 3 Departments:
+Opthalmology        4.150000
+Psychiatry          4.000000
+Orthopaedics        4.000000
+
+5. Department with least Consumer satisfaction:
+Neurology           3.700000
+
+Finance: Which department is generating the most revenue per dollar spent on it?
+
+Top 3 Departments:
+Opthalmology        2.737736
+Orthopaedics        1.992702
+Paediatrics         1.456160
+
+Department with least revenue per dollar spent:
+Neurology           0.840233
